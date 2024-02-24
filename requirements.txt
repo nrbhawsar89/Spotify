@@ -1,0 +1,14 @@
+# Environment Information
+# python==3.9.12
+
+# Python Packages
+nltk
+spellchecker
+pandas
+numpy
+configparser
+scikit-learn
+matplotlib
+seaborn
+langdetect
+imbalanced-learn
