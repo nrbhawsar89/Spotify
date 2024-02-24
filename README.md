@@ -1,4 +1,4 @@
-Spotify
+## Spotify
 Welcome to the Spotify Data project repository! This repository contains the code and data for our project.
 
 Project Overview
